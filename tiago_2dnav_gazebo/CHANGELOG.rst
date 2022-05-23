@@ -2,6 +2,26 @@
 Changelog for package tiago_2dnav_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.1 (2022-05-11)
+------------------
+
+2.3.0 (2022-05-03)
+------------------
+
+2.2.6 (2022-03-21)
+------------------
+
+2.2.5 (2022-02-23)
+------------------
+* Merge branch 'layered_costmap' into 'erbium-devel'
+  Adapting to the new vo_server
+  See merge request robots/tiago_simulation!80
+* Adapting to the new vo_server
+* Contributors: antoniobrandi, saikishor
+
+2.2.4 (2022-01-04)
+------------------
+
 2.2.3 (2021-11-25)
 ------------------
 
